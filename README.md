@@ -1,7 +1,7 @@
 # Uber Demo App
 Streamlit application that shows aggregated travel times in Madrid area. The app displays three different charts: a line chart, a map, and a bar chart. 
 
-*NOTE: This proyect has been created with educational purposes*
+*NOTE: This project has been created with educational purposes*
 
 ## Project Evolution: From Single-page to Multi-page Application
 
